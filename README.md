@@ -1,6 +1,6 @@
 # FOOD RECIPE APP
 
-API Integration not include . later become ..wait
+API Integration not include . later updating ..wait
 
 ## Getting Started
 
